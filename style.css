@@ -5,3 +5,22 @@
 #document-translator {
     font-size: 1.1em;
 }
+#papago-button {
+    font-family: "Noto Sans", "Roboto", "sans-serif";
+    background-color: white;
+    color: blue;
+    border-radius: 12px; 
+    border: 1px solid #e0e0e0; 
+    box-shadow: none; 
+    font-weight: bold; 
+}
+.correct-font {
+    font-family: "Noto Sans", sans-serif;
+    font-weight: bold;
+}
+.correct-font2 {
+    font-family: "Noto Sans", sans-serif;
+}
+#footer {
+    margin-top: 200px
+}
